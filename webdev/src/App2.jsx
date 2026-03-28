@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import InboxUI from './components/componenet'
+import InboxUI from './components/project2.jsx'
 
 
 function App() {
