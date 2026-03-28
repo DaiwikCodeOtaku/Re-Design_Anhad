@@ -2,7 +2,7 @@ import { useState } from 'react'
 import InboxUI from './components/project2.jsx'
 
 
-function App() {
+function App2() {
   
 
   return (
@@ -12,4 +12,4 @@ function App() {
   )
 }
 
-export default App
+export default App2
