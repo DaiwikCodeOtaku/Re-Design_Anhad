@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Cards1, Cards2, Cards3 } from './components/project3'
 
-function App() {
+function App3() {
   const [active, setActive] = useState(1);
   return (
     <>
@@ -32,4 +32,4 @@ function App() {
   )
 }
 
-export default App
+export default App3
