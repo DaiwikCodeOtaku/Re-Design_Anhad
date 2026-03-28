@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import Cards from './COMPONENTS/cards1'
-import Cards2 from './COMPONENTS/Cards2'
-import Cards3 from './COMPONENTS/Cards3'
+import Cards from './components/project3'
+import Cards2 from './components/project3'
+import Cards3 from './components/project3'
 
 function App() {
   const [active, setActive] = useState(1);
