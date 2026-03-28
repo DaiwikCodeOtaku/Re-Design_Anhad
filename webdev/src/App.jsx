@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import CollectiblesLayout from './components/components'
+import CollectiblesLayout from './components/project1.jsx'
 
 function App() {
   return (
