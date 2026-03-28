@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Cards1, Cards2, Cards3 } from './components/Project3'
+import { Cards1, Cards2, Cards3 } from './components/project3'
 
 function App() {
   const [active, setActive] = useState(1);
